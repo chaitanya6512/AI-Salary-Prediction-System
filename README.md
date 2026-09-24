@@ -194,9 +194,9 @@ images/prediction.png
 
 # 👨‍💻 Developer
 
-**Sabir Ullah**
+**Chaitanya**
 
-BS Computer Science Student
+B.Tech Computer Science Student
 
 Interested in:
 
@@ -205,14 +205,5 @@ Interested in:
 - Data Science
 - Python
 
----
 
-# ⭐ If you like this project
 
-Please consider giving it a ⭐ on GitHub.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
